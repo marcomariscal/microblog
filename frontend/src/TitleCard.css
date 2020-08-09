@@ -1,0 +1,6 @@
+.TitleCard a:hover {
+  text-decoration: none;
+}
+.TitleCard {
+  min-width: 48% !important;
+}

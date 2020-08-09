@@ -1,0 +1,7 @@
+.NewPostForm {
+  width: 50%;
+}
+
+.NewPostForm textarea {
+  height: 10rem;
+}
